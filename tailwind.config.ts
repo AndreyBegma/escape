@@ -12,6 +12,7 @@ const config: Config = {
         orange: "#DD783F"
       },
       textColor:{ 
+        darkGray: "#768088",
         gray: "rgba(255, 255, 255, 0.63)"
       },
       fontSize:{ 
